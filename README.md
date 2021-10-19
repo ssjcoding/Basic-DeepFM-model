@@ -1,2 +1,3 @@
 # Basic-DeepFM-model
-本工程将https://github.com/xiaoleiHou214/Basic-DeepFM-model 升级适应tf2.0以上版本
+（1）本工程从https://github.com/xiaoleiHou214/Basic-DeepFM-model 进行fork
+（2）将原始tf<2.0改为tf>2.0
